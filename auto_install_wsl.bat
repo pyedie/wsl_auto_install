@@ -1,11 +1,11 @@
 @echo off
 
 echo -------------------------------------
-echo > NUL                                 
+echo.                             
 echo           AUTO INSTALL WSL
-echo > NUL
+echo.
 echo               By Maeve
-echo > NUL
+echo.
 echo -------------------------------------
 
 echo Installing WSL
