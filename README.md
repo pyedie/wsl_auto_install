@@ -10,9 +10,9 @@ To use the installer correctly you must meet the following criteria :
 
 Download the installer [here](https://github.com/MaeveLaOuf/wsl_auto_install/releases/download/wsl_auto_install/auto_install_wsl.bat) or [here](https://github.com/MaeveLaOuf/wsl_auto_install/blob/master/auto_install_wsl.bat)
 
-### How to start the installer
+### How to start the installation
 
-##### Just start the install with **ADMINISTRATOR** permission.
+##### Just start the installer with **ADMINISTRATOR** permission.
 
 ### Todos
 
