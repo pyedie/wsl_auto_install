@@ -22,6 +22,7 @@ Download the installer [here](https://github.com/MaeveLaOuf/wsl_auto_install/rel
 
  - Ask if user really want to install WSL
  - Choose version of WSL
+ - Check if it's possible to auto install ubuntu or something
 
 License
 ----
