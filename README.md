@@ -1,6 +1,6 @@
 # WSL Auto Install
 
-*WAT(WSL Auto Install)*  is an automatic-installer for *WSL(Windows-SubSystem-Linux)*, for people who don't want to install WSL manually. WSL is use to run your favorite **Linux Distribution on Windows**
+*WAI(WSL Auto Install)*  is an automatic-installer for *WSL(Windows-SubSystem-Linux)*, for people who don't want to install WSL manually. WSL is use to run your favorite **Linux Distribution on Windows**
 
 ### What is WSL ?
 
